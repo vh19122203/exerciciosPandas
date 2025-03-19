@@ -1,0 +1,2 @@
+# exerciciosPandas
+ex pandas
